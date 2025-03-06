@@ -1,0 +1,5 @@
+﻿  Makao.cpp
+C:\Users\simon\source\repos\Makao\Makao\Makao.cpp(204,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\simon\source\repos\Makao\Makao\Makao.cpp(377,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\simon\source\repos\Makao\Makao\Makao.cpp(438,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Makao.vcxproj -> C:\Users\simon\source\repos\Makao\x64\Debug\Makao.exe
